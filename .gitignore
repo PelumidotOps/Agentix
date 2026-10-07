@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+
+# Production build
+dist/
+dist-ssr/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor & OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Figma Extraction & Reference Data
+figma_node.json
+image_refs.json
+figma_img.json
+page_*.png
+screen_*.png
+thumbnail.png
+frame_preview.png
+download_*.js
+export_*.js
+extract_*.js
+find_*.js
+inspect_*.js
+get_logo.js
